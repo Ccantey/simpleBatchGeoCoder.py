@@ -1,6 +1,6 @@
 import csv
 from geopy.geocoders import GoogleV3
-geolocator = GoogleV3('AIzaSyCU7Dy7nV2cJ5md6qSnSTeNvFCSbLQkEP0')
+geolocator = GoogleV3('####YOURAPIKEY####')
 
 ###BasicAPI
 ##location = geolocator.geocode('10351 Ash River Trail Orr MN')
